@@ -2659,7 +2659,7 @@ def Subscraption():
 
 		print(" Your Key is not Approved ")
 
-		print("")
+		print("HASAN-TRICKER-1BA6C490BE-M4786==")
 
 		print(" Copy And Send Key To Admin")
 
